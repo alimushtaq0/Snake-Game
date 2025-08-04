@@ -1,1 +1,3 @@
 I made a Snake Game in C++ using the raylib library and it helped me strengthen my OOP concepts even further.
+
+In this snake game it was made sure that the snake grows after eaing food, the food is only generated to random locations within the frame and not on the snakes body, the game is over once the snake touches the edges or its own body, and finally the fact that the game counted the score and resets itself whenever the game is over.
